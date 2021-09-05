@@ -6,5 +6,5 @@
   <img src="https://img.shields.io/badge/Electronics-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Embedded%20Systems-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Space%20Applications-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open--Source-lightgray?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-lightgray?style=for-the-badge">
 </p>
